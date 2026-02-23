@@ -1,0 +1,11 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "description": "Frontend folder structure for the Final Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Asab-72262",
+  "license": "ISC"
+}
