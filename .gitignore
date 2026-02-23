@@ -1,0 +1,13 @@
+# Node.js .gitignore file
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# macOS system files
+.DS_Store
+
+# Build directories
+build/
